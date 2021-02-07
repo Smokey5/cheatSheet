@@ -1,6 +1,10 @@
+html{
+  background-color: white;
+}
+
 body {
     font-family: Arial, sans-serif;
-    background-color: gainsboro;
+   /* background-color: gainsboro; */
   }
   
   p {
@@ -23,11 +27,11 @@ body {
     margin: 0 auto;
     text-align: left;
   }
-  /*
+  
   thead {
-    background-color: lavender;
+    background-color: lightgoldenrodyellow;
   }
-  */
+  
   td {
     border-top: 1px solid darkslategray;
   }
@@ -36,4 +40,5 @@ body {
     font-family: monospace;
     font-size: large;
     font-weight: bold;
+    background-color: lightslategray;
   }
